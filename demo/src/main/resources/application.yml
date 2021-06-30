@@ -1,0 +1,12 @@
+# 应用名称
+spring:
+  application:
+    name: demo
+
+aliyun:
+  accessId: LTAI4G2BcLKM7awnpYoYnboE
+  accessKey: nfyZtCCQ610w9HqFBhIMLhm9HeFNRQ
+
+oss:
+  endPoint: oss-cn-hangzhou.aliyuncs.com
+  bucketName: qiyeshufang
